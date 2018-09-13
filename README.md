@@ -4,4 +4,5 @@ Annual enrollment is the one time each year employees can change their benefits 
  
 ### Enrollment Resources:
 1. The Benefits Department is available to talk about the changes and how the benefits work
+
 2. Review the benefits guide and each individual benefit on your NEW benefits app
